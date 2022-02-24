@@ -8,6 +8,7 @@
 - Typescript
 - ESLint
 - Babel 설정(IE 11 대응)
+- Next.js Api bff rayer
 
 ## Docker
 
